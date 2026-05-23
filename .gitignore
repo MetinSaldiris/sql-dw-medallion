@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Editor / tooling
+.vscode/
+*.code-workspace
+
+# Local scratch
+Untitled-*.sql
+load_bronze.py
+
+# Secrets / credentials
+*.env
+.env*
+*.pem
+*.key
+credentials*
+appsettings.*.json
+
+# Logs / build artifacts
+*.log
+*.tmp
